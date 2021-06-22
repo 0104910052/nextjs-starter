@@ -1,0 +1,79 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": false,
+      "**/.svn": false,
+      "**/.hg": false,
+      "**/CVS": false,
+      "**/.DS_Store": false,
+      ".history": false,
+      "node_modules": false,
+      "**/.gitignore": false,
+      ".gitignore": false,
+      "**/yarn.lock": false,
+      "*.lock": false,
+      "yarn.lock": false,
+      "**/*.lock": false,
+      "*.json": false,
+      "**/*.json": false,
+      "*.js": false,
+      "**/*.js": false,
+      "*.md": false,
+      "**/*.md": false,
+      "*.code-workspace": false,
+      "**/*.code-workspace": false,
+      "*.ts": false,
+      "**/*.ts": false,
+      "**/.vscode": false,
+      ".vscode": false,
+      "**/.next": false,
+      ".next": false
+    },
+    "explorerExclude.backup": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      ".history": false,
+      "node_modules": false,
+      "**/.gitignore": true,
+      ".gitignore": true,
+      "**/yarn.lock": true,
+      "*.lock": true,
+      "yarn.lock": true,
+      "**/*.lock": true,
+      "*.json": true,
+      "**/*.json": true,
+      "*.js": true,
+      "**/*.js": true,
+      "*.md": true,
+      "**/*.md": true,
+      "*.code-workspace": true,
+      "**/*.code-workspace": true,
+      "*.ts": true,
+      "**/*.ts": true,
+      "**/.vscode": true,
+      ".vscode": true,
+      "**/.next": true,
+      ".next": true
+    },
+    "workbench.colorCustomizations": {
+      "[One Dark Darker]": {
+        "editorIndentGuide.activeBackground": "#ffffff4d",
+        "editorIndentGuide.background": "#ffffff10",
+        "editorLineNumber.foreground": "#ffffff2a",
+        "terminal.foreground": "#525252"
+      }
+    }
+  },
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "redvanworkshop.explorer-exclude-vscode-extension"
+  ]
+}

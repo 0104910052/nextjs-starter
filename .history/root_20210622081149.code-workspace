@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      ".history": false,
+      "node_modules": false,
+      "**/.gitignore": true,
+      ".gitignore": true,
+      "**/yarn.lock": true,
+      "*.lock": true,
+      "yarn.lock": true,
+      "**/*.lock": true,
+      "*.json": true,
+      "**/*.json": true,
+      "*.js": true,
+      "**/*.js": true
+    },
+    "explorerExclude.backup": null
+  }
+}
